@@ -74,11 +74,7 @@ Run the compiled program:
 
 ### Creating a Course
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
-
-Course Management System
-
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+--- Course Management System ---
 1. Create Course
 2. Display Courses
 3. Search Courses
@@ -100,11 +96,7 @@ Do you want to enter more courses?(y/n): n
 
 ### Displaying Courses
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
-
-Course Management System
-
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+--- Course Management System ---
 1. Create Course
 2. Display Courses
 3. Search Courses
@@ -124,11 +116,7 @@ Course Credits: 4
 
 ### Searching for a Course
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
-
-Course Management System
-
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+--- Course Management System ---
 1. Create Course
 2. Display Courses
 3. Search Courses
