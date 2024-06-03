@@ -1,0 +1,2 @@
+SE213,Introduction to UNIX,This course deals with system administration,3
+SE121,Computer Programming II,This course deals with functions user-defined data types and file handling,5
