@@ -1,4 +1,4 @@
-# Course Management System - Computer Programming II
+# Course Management System
 
 This is a console-based Course Management System developed as a final project for the Computer Programming II course. It allows users to manage courses by adding, displaying, searching, updating, and deleting course records.
 
@@ -74,9 +74,9 @@ Run the compiled program:
 
 ### Creating a Course
 
-------------------------
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 Course Management System
-------------------------
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 1. Create Course
 2. Display Courses
 3. Search Courses
@@ -98,9 +98,9 @@ Do you want to enter more courses?(y/n): n
 
 ### Displaying Courses
 
-------------------------
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 Course Management System
-------------------------
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 1. Create Course
 2. Display Courses
 3. Search Courses
@@ -120,9 +120,9 @@ Course Credits: 4
 
 ### Searching for a Course
 
-------------------------
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 Course Management System
-------------------------
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 1. Create Course
 2. Display Courses
 3. Search Courses
